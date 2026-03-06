@@ -1,4 +1,3 @@
-# ANNIVERSARY
 <!DOCTYPE html>
 <html>
 <head>
